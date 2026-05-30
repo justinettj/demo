@@ -5,4 +5,5 @@ I am new at this :D \
 ** bold ** \
 ***bold and italics*** \
 * bullet
-I made a new branch!
+I made a new branch! \
+Bonjour, I can't speak French
